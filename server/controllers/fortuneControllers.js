@@ -1,4 +1,6 @@
-module.exports.getAllFortunes = async (req, res) => {};
+module.exports.getAllFortunes = async (req, res) => {
+  hi;
+};
 
 module.exports.getRandomFortune = async (req, res) => {};
 
